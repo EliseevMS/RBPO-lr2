@@ -5,7 +5,7 @@ using namespace std;
 double x;
 double result;
 
-namespace kapustin {
+namespace Eliseev {
 
 	void f() {
 		result = cos(x) + cos(2 * x) + cos(6 * x) + cos(7 * x);
